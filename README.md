@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dk
-- 👀 I’m interested in ...Hospital Invenotry and Point of Sale Management using QR Code and RFID
+- 👀 I’m interested in ...Hospital Inventory and Point of Sale Management using QR Code and RFID
 - 🌱 I’m currently learning ...Programing
 - 💞️ I’m looking to collaborate on ...The above project
 - 📫 How to reach me ...desmondkee@gmail.com, +60125885986
